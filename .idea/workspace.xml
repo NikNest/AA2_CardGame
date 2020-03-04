@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcaada92-b2b7-4d8f-b052-27683f25c6b8" name="Default Changelist" comment="" />
+    <list default="true" id="dcaada92-b2b7-4d8f-b052-27683f25c6b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/EndGameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Shack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/TransportType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AA2_CardGame" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YcODzf2E2ZRtAxgJHp92BkQt6Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +46,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/edu/kit/informatik" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
+      <module name="AbAuf2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,9 +87,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583238306987">
+    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1583326600751">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583238306987" />
+    <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1583326600751" />
+    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1583330121854">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583330121854" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583239085835">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583239085835" />
+    <state x="746" y="460" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583238978892">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="460" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1053@67.27.1853.1053" timestamp="1583238978892" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1583328244405">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244405" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1583328244404">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244404" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1583328244404">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244404" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1583328244405">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244405" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583315919461">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583315919461" />
   </component>
 </project>

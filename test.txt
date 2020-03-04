@@ -1,0 +1,3 @@
+wood 16 metal 16 plastic 16 spider 5 snake 5 tiger 5 thunderstorm
+
+wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,wood,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,metal,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic,spider,spider,spider,spider,spider,snake,snake,snake,snake,snake,tiger,tiger,tiger,tiger,tiger,thunderstorm

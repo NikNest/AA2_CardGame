@@ -1,4 +1,5 @@
 package game.gameState.utils;
 
-public class CommandReader {
+public class Transport {
+
 }
