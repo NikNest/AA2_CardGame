@@ -7,7 +7,7 @@ import edu.kit.informatik.Terminal;
  * @author  Nikita
  * @version 1
  */
-public class IncorrectInputException extends Exception{
+public class IncorrectInputException extends Exception {
     /**
      * constructor for semantic exceptions
      */

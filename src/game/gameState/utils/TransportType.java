@@ -1,5 +1,23 @@
 package game.gameState.utils;
 
+/**
+ * enum class for transport types
+ */
 public enum TransportType {
-    SAILINGRAFT, HANGGLIDER, STEAMBOAT, BALLON
+    /**
+     * "sailingraft"
+     */
+    SAILINGRAFT,
+    /**
+     * "hangglider"
+     */
+    HANGGLIDER,
+    /**
+     * "steamboat"
+     */
+    STEAMBOAT,
+    /**
+     * "ballon"
+     */
+    BALLON
 }

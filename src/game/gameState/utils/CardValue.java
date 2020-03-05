@@ -1,5 +1,35 @@
 package game.gameState.utils;
 
+/**
+ * enum for card types
+ */
 public enum CardValue {
-    WOOD, METAL, PLASTIC, SPIDER, SNAKE, TIGER, THUNDERSTORM
+    /**
+     * "wood"
+     */
+    WOOD,
+    /**
+     * "metal"
+     */
+    METAL,
+    /**
+     * "plastic"
+     */
+    PLASTIC,
+    /**
+     * "spider"
+     */
+    SPIDER,
+    /**
+     * "snake"
+     */
+    SNAKE,
+    /**
+     * "tiger"
+     */
+    TIGER,
+    /**
+     * "thunderstorm"
+     */
+    THUNDERSTORM
 }

@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcaada92-b2b7-4d8f-b052-27683f25c6b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/ListingMethodsGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/final2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/Launcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/EndGameException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/EndGameException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Resource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Tool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Launcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/EndGameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Shack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Tool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/TransportType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/TransportType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/requiredCheckstyleRules_Final_829.xml" />
     <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -107,6 +104,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583419297242" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583426269639">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583426269639" />
+    <state x="737" y="283" width="424" height="513" key="FileChooserDialogImpl" timestamp="1583422234794">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="737" y="283" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583422234794" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1583421969250">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -123,10 +128,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583421969250" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1583422043132">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583422245139">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583422043132" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583422245139" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583404281202">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
