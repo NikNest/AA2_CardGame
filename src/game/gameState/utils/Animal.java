@@ -4,14 +4,31 @@ public class Animal extends Card{
     private static short spiderNum = 0;
     private static short snakeNum = 0;
     private static short tigerNum = 0;
-    public Animal(CardValue value) throws  IncorrectInputException{
-        if(value.equals(CardValue.SPIDER))
+    public Animal(CardValue value) throws IncorrectInputException {
+        if(value.equals(CardValue.SPIDER) && spiderNum < 5) {
             spiderNum++;
-        if(value.equals(CardValue.SNAKE))
+            type = value;
+            return;
+        }
+        if(value.equals(CardValue.SNAKE) && snakeNum < 5) {
             snakeNum++;
-        if(value.equals(CardValue.TIGER))
+            type = value;
+            return;
+        }
+        if(value.equals(CardValue.TIGER) && tigerNum < 5) {
             tigerNum++;
-        if(spiderNum > 5 || snakeNum > 5 || tigerNum > 5)
-            throw new IncorrectInputException("there are too much animal in the game");
+            type = value;
+            return;
+        }
+        throw new IncorrectInputException("there are already too many animals of this type in the game");
+    }
+    public int getNumDice() {
+        if(type == CardValue.SPIDER) {
+            return 4;
+        } else if(type == CardValue.SNAKE) {
+            return 6;
+        } else {
+            return 8;
+        }
     }
 }

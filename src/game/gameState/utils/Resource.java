@@ -7,14 +7,22 @@ public class Resource extends Card{
 
     public Resource(CardValue value, boolean initializing) throws  IncorrectInputException{
         if (initializing) {
-            if (value.equals(CardValue.WOOD))
+            if (value.equals(CardValue.WOOD) && woodNum < 16) {
                 woodNum++;
-            if (value.equals(CardValue.METAL))
+                type = value;
+                return;
+            }
+            if (value.equals(CardValue.METAL) && metalNum < 16 ) {
                 metalNum++;
-            if (value.equals(CardValue.PLASTIC))
+                type = value;
+                return;
+            }
+            if (value.equals(CardValue.PLASTIC) && plasticNum < 16) {
                 plasticNum++;
-            if (woodNum > 16 || metalNum > 16 || plasticNum > 16)
-                throw new IncorrectInputException("there are too many resources in the game");
+                type = value;
+                return;
+            }
+                throw new IncorrectInputException("there are too many resources of this type in the game");
         }
     }
 
@@ -27,4 +35,5 @@ public class Resource extends Card{
     public boolean equals(Object obj) {
         return Resource.class.isInstance(obj) && this.type.equals(((Resource)obj).type);
     }
+
 }

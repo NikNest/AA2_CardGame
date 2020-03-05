@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcaada92-b2b7-4d8f-b052-27683f25c6b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/EndGameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Shack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gameState/utils/TransportType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/final2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/EndGameException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/EndGameException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbAuf2/game/gameState/utils/Tool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Launcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/CardValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Catastrophe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/IncorrectInputException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/CommandReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/EndGameException.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gameState/utils/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Shack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gameState/utils/Transport.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -91,10 +91,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1583326600751" />
-    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1583330121854">
+    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1583405224060">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583330121854" />
+    <state x="801" y="264" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583405224060" />
     <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583239085835">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -103,25 +103,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="746" y="460" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1053@67.27.1853.1053" timestamp="1583238978892" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1583328244405">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583419297242">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244405" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1583328244404">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583419297242" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1583421969250">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244404" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1583328244404">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583421969250" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1583421969250">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244404" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1583328244405">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583421969250" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1583421969249">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583328244405" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583315919461">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583421969249" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1583421969250">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583315919461" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583421969250" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583422043132">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583422043132" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583404281202">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583404281202" />
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup" timestamp="1583417950092">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583417950092" />
   </component>
 </project>
